@@ -37,7 +37,7 @@ header .navbar a {
 /*navbar*/
 .hero{
     margin-top: -20px;
-    padding: 1em 15em;
+    padding: 1em 10em;
     background-color: #1f2937;
     display: flex;
     /* justify-content: space-between; */
